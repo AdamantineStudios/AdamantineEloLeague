@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AdamantineEloLeague/static/css/main.9bab2d75.chunk.css",
+    "main.js": "/AdamantineEloLeague/static/js/main.14ae2a67.chunk.js",
+    "main.js.map": "/AdamantineEloLeague/static/js/main.14ae2a67.chunk.js.map",
+    "runtime-main.js": "/AdamantineEloLeague/static/js/runtime-main.00c93004.js",
+    "runtime-main.js.map": "/AdamantineEloLeague/static/js/runtime-main.00c93004.js.map",
+    "static/js/2.c8682e2b.chunk.js": "/AdamantineEloLeague/static/js/2.c8682e2b.chunk.js",
+    "static/js/2.c8682e2b.chunk.js.map": "/AdamantineEloLeague/static/js/2.c8682e2b.chunk.js.map",
+    "static/js/3.267ae512.chunk.js": "/AdamantineEloLeague/static/js/3.267ae512.chunk.js",
+    "static/js/3.267ae512.chunk.js.map": "/AdamantineEloLeague/static/js/3.267ae512.chunk.js.map",
+    "index.html": "/AdamantineEloLeague/index.html",
+    "static/css/main.9bab2d75.chunk.css.map": "/AdamantineEloLeague/static/css/main.9bab2d75.chunk.css.map",
+    "static/js/2.c8682e2b.chunk.js.LICENSE.txt": "/AdamantineEloLeague/static/js/2.c8682e2b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00c93004.js",
+    "static/js/2.c8682e2b.chunk.js",
+    "static/css/main.9bab2d75.chunk.css",
+    "static/js/main.14ae2a67.chunk.js"
+  ]
+}
